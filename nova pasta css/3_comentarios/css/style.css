@@ -1,0 +1,33 @@
+/* Esse é o titulo principal da pagina */
+h1 {
+    color:blue ;
+    font-size: 70px;
+}
+
+/* Esse é o primeiro paragrafo da pagina */
+.paragrafo {
+   color: rgb(0, 0, 0); 
+   background-color: blueviolet; 
+}
+/*
+Pode ser escrito 
+em 
+varias 
+linhas 
+diferentes.
+Cuidado, se colocar 
+informações pessoais todos que entrarem no site consiguirão ver
+*/
+#segundo-titulo {
+    color: purple;
+    font-size: 30px;
+}
+
+.box .paragrafo-box {
+    color: rgb(37, 160, 0);
+    font-size: 20px;
+}
+
+p  {
+    color: red;
+}

@@ -1,0 +1,12 @@
+#background-image, #primeiro-titulo{
+    display:inline-block;
+    width: 100px;
+}
+span {
+    display: block;
+    /* span é um elememto de inline block, ou seja, 
+    ele deixa o elemento um do lado do outro*/
+}
+h3 {
+    display: none;
+}

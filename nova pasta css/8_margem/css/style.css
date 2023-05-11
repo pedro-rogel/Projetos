@@ -1,0 +1,20 @@
+#primeiro-titulo {
+    border: 1px solid blue;
+    margin: 50px;
+}
+#segundo-titulo {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 100px; /*nao irá mudar pois o 
+    elemento ocupa
+    uma largura toda da página/tela*/
+    margin-bottom: 80px;
+}
+
+.paragrafo{
+    margin: 20px 50px 30px 50px;
+}
+
+.paragrafo-box{
+    margin: 50px 80px;
+}

@@ -1,0 +1,12 @@
+#primeiro-titulo{
+    border: 5px solid #f8d7a6
+}
+#segundo-titulo { 
+    border: 3px dotted red;
+}
+.paragrafo {
+   border-top: 5px solid black;
+   border-left: 2px solid blue ;
+   border-right: 10px solid red;
+   border-bottom: 3px dotted gold;
+}

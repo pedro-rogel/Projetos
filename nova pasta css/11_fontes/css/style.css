@@ -1,0 +1,16 @@
+#primeiro-titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#segundo-titulo {
+    font-family: 'Courier New', Courier, monospace;
+    text-align:right;
+    text-decoration: line-through;
+}
+#background-image{
+    letter-spacing: 2px;
+    font-family: 'Courier New', Courier, monospace
+}

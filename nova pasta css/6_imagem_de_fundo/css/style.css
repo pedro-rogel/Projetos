@@ -1,0 +1,11 @@
+#background-image {
+    background-image: url(../img/download\ \ terra.jpg);    
+    height: 400px;
+    background-size: cover;
+  
+}
+
+#background-image  h2{
+    color:#fff;
+    text-align: center;
+}
